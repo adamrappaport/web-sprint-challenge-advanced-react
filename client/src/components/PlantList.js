@@ -20,7 +20,7 @@ export default class PlantList extends Component {
       }
     ).catch(
       error => 
-      console.log("no bueno")
+      console.log("err shes taking on water")
     )
   }
 
